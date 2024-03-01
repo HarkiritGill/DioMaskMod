@@ -1,7 +1,7 @@
 {
     "name": "DIO'S MASK",
     "version_number": "1.0.0",
-    "website_url": "https://github.com/HarkiritGill/Mercurys-Company",
+    "website_url": "https://github.com/HarkiritGill/DioMaskMod",
     "description": "The Mask becomes the Jojo Reference it was designed to be.",
     "dependencies": ["BepInEx-BepInExPack-5.4.2100", "Clementinise-CustomSounds-2.3.2",
 "no00ob-LCSoundTool-1.5.0"]
